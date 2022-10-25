@@ -1,3 +1,17 @@
 html {
   font-size: 16px;
 }
+
+.navigation-items {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  align-items: center;
+  margin: 0;
+  margin-left: auto;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
