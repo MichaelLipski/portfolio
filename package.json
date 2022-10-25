@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelLipski/portfolio.git"
+  },
+  "author": "Michael Lipski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelLipski/portfolio/issues"
+  },
+  "homepage": "https://github.com/MichaelLipski/portfolio#readme"
+}
