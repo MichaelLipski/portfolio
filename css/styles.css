@@ -141,6 +141,10 @@ summary {
   font-family: "Font Awesome 5 Brands";
 }
 
+.fab, .far {
+  font-weight: 400;
+}
+
 footer {
   margin-top: auto;
   padding: var(--spacing-2) 0;
