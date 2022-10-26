@@ -137,6 +137,20 @@ summary {
   margin-top: var(--spacing-1);
 }
 
+#skills img {
+  width: 50px;
+}
+
+#education-container {
+  display: inline-block;
+  justify-content: space-around;
+}
+
+#education img {
+  width: 45%;
+  margin: 5px;
+}
+
 .fab {
   font-family: "Font Awesome 5 Brands";
 }
