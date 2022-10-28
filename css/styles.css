@@ -47,6 +47,14 @@ main {
   padding: 1em 0 1em 0;
 }
 
+a:link {
+  font-size: 1em;
+}
+
+a:hover {
+  font-size: 1.5em;
+}
+
 ul {
   display: block;
   list-style-type: disc;
@@ -171,7 +179,7 @@ summary {
 
 #education img {
   width: 45%;
-  margin: 5px;
+  margin: 10px;
 }
 
 #connect-container {
@@ -211,4 +219,8 @@ footer {
   nav {
     flex-direction: column;
   }
+}
+
+#time {
+  text-align: center;
 }
